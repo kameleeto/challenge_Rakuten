@@ -1,0 +1,6 @@
+.venv/
+.env
+requirements.txt
+.DS_Store
+**/.DS_Store
+data/images/
